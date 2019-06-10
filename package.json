@@ -1,5 +1,6 @@
 {
   "name": "checkerboardapp",
+  "homepage": "https://bsrigg.github.io/Checkerboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

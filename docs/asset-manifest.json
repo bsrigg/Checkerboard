@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.f93d2ba6.chunk.css",
-  "main.js": "/static/js/main.a2f9607b.chunk.js",
-  "main.js.map": "/static/js/main.a2f9607b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.2752fb64.chunk.js": "/static/js/2.2752fb64.chunk.js",
-  "static/js/2.2752fb64.chunk.js.map": "/static/js/2.2752fb64.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.e791cf8b4135ad960ca68733e4adba43.js": "/precache-manifest.e791cf8b4135ad960ca68733e4adba43.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.f93d2ba6.chunk.css.map": "/static/css/main.f93d2ba6.chunk.css.map"
+  "main.css": "/Checkerboard/static/css/main.f93d2ba6.chunk.css",
+  "main.js": "/Checkerboard/static/js/main.d4c3100d.chunk.js",
+  "main.js.map": "/Checkerboard/static/js/main.d4c3100d.chunk.js.map",
+  "runtime~main.js": "/Checkerboard/static/js/runtime~main.eedd3f92.js",
+  "runtime~main.js.map": "/Checkerboard/static/js/runtime~main.eedd3f92.js.map",
+  "static/js/2.2752fb64.chunk.js": "/Checkerboard/static/js/2.2752fb64.chunk.js",
+  "static/js/2.2752fb64.chunk.js.map": "/Checkerboard/static/js/2.2752fb64.chunk.js.map",
+  "index.html": "/Checkerboard/index.html",
+  "precache-manifest.21465152103f10756b6e654d035e324f.js": "/Checkerboard/precache-manifest.21465152103f10756b6e654d035e324f.js",
+  "service-worker.js": "/Checkerboard/service-worker.js",
+  "static/css/main.f93d2ba6.chunk.css.map": "/Checkerboard/static/css/main.f93d2ba6.chunk.css.map"
 }
